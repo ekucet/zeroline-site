@@ -1,0 +1,4 @@
+body{font:16px/1.65 system-ui,-apple-system,sans-serif;max-width:680px;margin:40px auto;padding:0 16px;color:#1c1c1e;background:#fafafa}
+h1{font-size:26px;margin-bottom:4px}h2{font-size:18px;margin-top:32px;border-top:1px solid #ddd;padding-top:20px}
+nav a{margin-right:12px}small{color:#666}
+@media(prefers-color-scheme:dark){body{background:#101214;color:#e8e6df}h2{border-color:#333}a{color:#f2a541}small{color:#999}}
